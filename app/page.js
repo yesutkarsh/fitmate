@@ -8,6 +8,7 @@ export default function page() {
     <LoginLink>Sign in With Kinde</LoginLink> <br/>
 <RegisterLink>Sign up With Kinde</RegisterLink>
 <LoginLink>Logout</LoginLink>
+me
 
     </>
   )
